@@ -1,0 +1,9 @@
+baseURL = "https://jamesblau.com/
+
+languageCode = "en-us"
+
+title = "James Blau"
+
+theme = "RPortfolio"
+
+relativeurls = true
